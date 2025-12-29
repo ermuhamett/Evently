@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Evently.Modules.Events.Domain</AssemblyName>
+    <RootNamespace>Evently.Modules.Events.Domain</RootNamespace>
+  </PropertyGroup>
+</Project>
